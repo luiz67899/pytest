@@ -1,0 +1,12 @@
+*.pyc
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos temporários
+*.tmp
+*.temp

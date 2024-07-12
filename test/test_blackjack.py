@@ -7,5 +7,5 @@ def test_simple_case(cards,score):
 
 def test_value_error_is_raised():
   with pytest.raises(ValueError):
-    #card_score("")
+    card_score("")
     card_score(1)
